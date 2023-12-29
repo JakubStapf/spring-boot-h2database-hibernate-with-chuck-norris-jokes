@@ -2,8 +2,8 @@
 Example usage in an application integrating Spring Boot with Hibernate/JPA using H2 Database
 # Instructions:
 1. Open your IntelliJ IDEA.
-2. Create a new project from version controll by pasting the link to the remote repository
-3. use this LINK: https://github.com/JakubStapf/speak-chuck-norris-jokes.git
+2. Create a new project from version controll by pasting the link below to URL panel to the remote repository
+3. LINK: https://github.com/JakubStapf/speak-chuck-norris-jokes.git
 4. and then fetch the program using the git->pull method from the local repository.
 5. Reload Maven and run "ChuckNorrisJokeApplication"
 6. Open your Google Chrome browser and write adress: http://localhost:8080/jokes
